@@ -26,8 +26,8 @@ After you cut the line, you will get 4 enamelled wire.
 
 Blue: 2.5-3
 Green: 2.5-1
-Gold: 3.3-3
-Red: 3.3-2
+Gold: 3.5-3
+Red: 3.5-2
 
 
 
