@@ -24,10 +24,10 @@ From this guy's shop: https://goods.ruten.com.tw/item/show?21312044643606
 
 After you cut the line, you will get 4 enamelled wire.
 
-Blue: 2.5-3
-Green: 2.5-1
-Gold: 3.5-3
-Red: 3.5-2
+- Blue: 2.5-3 (GND)
+- Green: 2.5-1 (SPK)
+- Gold: 3.5-3 (PTT)
+- Red: 3.5-2 (MIC)
 
 
 
