@@ -36,4 +36,8 @@ Ref: http://www.naxnet.or.jp/~masafumi/data/mic-pin.html
 
 https://flows.nodered.org/flow/d802e43ab306b4b9f2ba
 
+＝＝＝＝＝＝＝＝
 
+測試用的 2.5mm 轉接線
+
+2.5 | 3, 2, 1> Gold, Red Blue
