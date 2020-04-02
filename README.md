@@ -5,7 +5,7 @@ This is a note for HAM Kenwood to Raspberry Pi
 Kenwood
 
 2.5 PIN
-| 3,2,1 >
+| 3, 2, 1>
 
 3.5 PIN
 | 3, 2, 1> 
@@ -35,6 +35,16 @@ After you cut the line, you will get 4 enamelled wire.
 Ref: http://www.naxnet.or.jp/~masafumi/data/mic-pin.html
 
 https://flows.nodered.org/flow/d802e43ab306b4b9f2ba
+
+CH340
+- GND- 2.5-3
+- RXD- 2.5-2
+- TXD- 3.5-3
+- x-
+- x-
+- x-
+
+
 
 ＝＝＝＝＝＝＝＝
 
