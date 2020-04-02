@@ -11,14 +11,14 @@ Kenwood
 | 3, 2, 1> 
 
 2.5 Plug 
-1. Speak
-2. remote control
-3. GND
+1. Speak+
+2. remote control, TX Data
+3. GND, Speak-
 
 3.5 Plug
 1. +3v (note, depend on device)
-2. mic
-3. PTT (gnd to ptt)
+2. mic, MIC+
+3. PTT, MIC-, RX Data (gnd to ptt)
 
 From this guy's shop: https://goods.ruten.com.tw/item/show?21312044643606
 
@@ -34,6 +34,6 @@ After you cut the line, you will get 4 enamelled wire.
 
 Ref: http://www.naxnet.or.jp/~masafumi/data/mic-pin.html
 
-
+https://flows.nodered.org/flow/d802e43ab306b4b9f2ba
 
 
